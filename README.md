@@ -4,6 +4,9 @@
 
 # TeleDesk
 <img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskWeather.png" width="174">
+<img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskFinances.png" width="174">
+<img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskTelevision.png" width="174">
+
 
 Cross-platform desktop (Electron) application for NOS (Dutch) Teletekst.
 
