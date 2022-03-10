@@ -3,7 +3,7 @@
 [![Stars](https://img.shields.io/github/stars/jetspiking/TeleDesk.svg)]()
 
 # TeleDesk
-<img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskWeather.png" width="200" height="270"> <img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskFinances.png" width="200" height="270"> <img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskTelevision.png" width="200" height="270">
+<img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskWeather.png" width="200" height="250"> <img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskFinances.png" width="200" height="250"> <img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskTelevision.png" width="200" height="250">
 
 
 Cross-platform desktop (Electron) application for NOS (Dutch) Teletekst.
