@@ -1,2 +1,2 @@
 # TeleDesk
-Cross-platform desktop application for NOS Teletekst
+Cross-platform desktop (Electron) application for NOS Teletekst
