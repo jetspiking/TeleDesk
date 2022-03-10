@@ -13,7 +13,7 @@ NOS Teletekst is, despite it's age of more than four decades, still accessible o
 
 https://teletekst-data.nos.nl/webplus
 
-Why Teletekst is not obsolete.
+Why Teletekst is not obsolete:
 - High performance.
 - High information density.
 - Privacy friendly.
