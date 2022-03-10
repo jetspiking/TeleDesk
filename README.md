@@ -9,7 +9,7 @@
 Cross-platform desktop (Electron) application for NOS (Dutch) Teletekst.
 
 # Description
-NOS Teletekst is, despite it's age of more than four decades, still accessible on the website displayed below. TeleDesk (Teletesk Desktop) was created as an alternative that you always carry with you. Teletekst is a Dutch implementation for the Teletext specification.
+NOS Teletekst is, despite its age of more than four decades, still accessible on the website displayed below. TeleDesk (Teletesk Desktop) was created as an alternative that you always carry with you. Teletekst is a Dutch implementation for the Teletext specification.
 
 https://teletekst-data.nos.nl/webplus
 
