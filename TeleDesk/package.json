@@ -1,0 +1,34 @@
+{
+  "name": "teledesk",
+  "version": "1.0.0",
+  "main":"./dist/index.js",
+  "description": "Desktop NOS TeleTekst Client",
+  "scripts": {
+    "build": "tsc",
+    "watch": "tsc -w",
+    "start": "npm run build && electron ./dist/index.js",
+    "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=./src/media/icons/favicon.icns --prune=true --out=release-builds",
+    "package-win": "electron-packager . --overwrite --platform=win32 --arch=x64 --icon=./src/media/icons/favicon.icns --prune=true --out=release-builds",
+    "package-lin": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=./src/media/icons/favicon.icns --prune=true --out=release-builds"
+  },
+  "repository": "https://github.com/electron/electron-quick-start-typescript",
+  "keywords": [
+    "Electron",
+    "quick",
+    "start",
+    "tutorial",
+    "demo",
+    "typescript"
+  ],
+  "author": "Dustin Hendriks",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^17.0.1",
+    "electron-packager": "^15.4.0",
+    "typescript": "^4.5.5"
+  },
+  "dependencies": {
+    "cross-fetch": "^3.1.5",
+    "node-fetch": "^3.2.1"
+  }
+}

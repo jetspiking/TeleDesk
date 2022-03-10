@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
+  <meta name="viewport" content="width=device-width">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <title>TeleDesk</title>
+  <link rel="stylesheet" href="src/style/page-style.css">
+  <script src="./dist/src/renderer/renderer.js"></script>
+
+</head>
+<body id="body">
+  <link rel="stylesheet" href="src/style/page-style.css">
+  <div id="container" class="item-wrapper">
+    <div id="buttons">
+      <div onclick="quickChangePage('100');" class="item"><img width="70" src="src/media/images/Globe.png"></div>
+      <hr>
+      <div onclick="previousPage();" class="item"><img width="50" src="src/media/images/arrow-left-circle.svg"></div>
+      <div onclick="nextPage();" class="item"><img width="50" src="src/media/images/arrow-right-circle.svg"></div>
+      <hr>
+      <div class="item"><input type="text" id="telepage"></input></div>
+      <div class="item"><button id="submit" onclick="triggerInputEvent();">Go</button></div>
+      <hr>
+      <div onclick="quickChangePage('200');" class="item"><img width="50" src="src/media/images/tv.svg"></div>
+      <div onclick="quickChangePage('300');" class="item"><img width="50" src="src/media/images/radio.svg"></div>
+      <div onclick="quickChangePage('500');" class="item"><img width="50" src="src/media/images/dollar-sign.svg"></div>
+      <div onclick="quickChangePage('600');" class="item"><img width="50" src="src/media/images/dribble.svg"></div>
+      <div onclick="quickChangePage('700');" class="item"><img width="50" src="src/media/images/wind.svg"></div>
+    </div>
+    <iframe id="teleframe" src="./src/html/teletekst.html" seamless></iframe>
+  </div>
+</body>
+</html>

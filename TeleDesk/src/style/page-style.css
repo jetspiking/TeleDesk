@@ -1,0 +1,54 @@
+.item{
+    clear:both;
+    text-align: center;
+}
+
+html, body {
+    overflow: hidden;
+    width: 600;
+    height: 700;
+    user-select: none;
+}
+
+.item-wrapper {
+    overflow: auto;
+    display: flex;
+    justify-content: center;
+}
+
+#teleframe {
+    width: 63ch;
+    height: 80ch;
+    resize:none;
+    overflow:hidden;
+    border: 0ch;
+}
+
+#telepage {
+    color: white;
+    background: transparent;
+    border: none;
+    width: 50px;
+    max-width: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+#submit {
+    color: white;
+    background: transparent;
+    margin: 3pt;
+    width: 50px;
+    max-width: 50px;
+    text-align: center;
+    font-weight: bold;
+    font-size: large;
+}
+
+.vertical-rule {
+    margin-left: 15px;
+    display:flex;
+}
+
+body {background-color: black;}
