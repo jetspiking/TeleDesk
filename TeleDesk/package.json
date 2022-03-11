@@ -7,19 +7,12 @@
     "build": "tsc",
     "watch": "tsc -w",
     "start": "npm run build && electron ./dist/index.js",
+    "package-all": "electron-packager . --overwrite --all=true --icon=./src/media/icons/favicon.icns --prune=true --out=release-builds",
     "package-mac": "electron-packager . --overwrite --platform=darwin --arch=x64 --icon=./src/media/icons/favicon.icns --prune=true --out=release-builds",
     "package-win": "electron-packager . --overwrite --platform=win32 --arch=x64 --icon=./src/media/icons/favicon.icns --prune=true --out=release-builds",
     "package-lin": "electron-packager . --overwrite --platform=linux --arch=x64 --icon=./src/media/icons/favicon.icns --prune=true --out=release-builds"
   },
   "repository": "https://github.com/electron/electron-quick-start-typescript",
-  "keywords": [
-    "Electron",
-    "quick",
-    "start",
-    "tutorial",
-    "demo",
-    "typescript"
-  ],
   "author": "Dustin Hendriks",
   "license": "MIT",
   "devDependencies": {
@@ -28,7 +21,6 @@
     "typescript": "^4.5.5"
   },
   "dependencies": {
-    "cross-fetch": "^3.1.5",
-    "node-fetch": "^3.2.1"
+    "cross-fetch": "^3.1.5"
   }
 }
