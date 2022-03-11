@@ -38,7 +38,7 @@ https://teletekst-data.nos.nl/json
 Bugs can be reported by opening issues. Ideas to include specific features can also be discussed by opening an issue. 
 
 # Thank you for using TeleDesk
-If you enjoy TeleDesk and you to support me extra, you could consider buying me a drink by navigating to my Buy Me A Coffee account.
+If you enjoy TeleDesk and you want to support me, you could consider buying me a drink by navigating to my Buy Me A Coffee account.
 
 <a href="https://www.buymeacoffee.com/DustinHendriks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
