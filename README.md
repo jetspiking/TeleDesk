@@ -47,5 +47,7 @@ If you enjoy TeleDesk and you want to support me, you could consider buying me a
 
 <a href="https://www.buymeacoffee.com/DustinHendriks" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 
+#
+
 <img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskIcon.png" width="200" height="200">
 
