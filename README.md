@@ -49,5 +49,5 @@ If you enjoy TeleDesk and you want to support me, you could consider buying me a
 
 #
 
-<img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskIcon.png" width="200" height="200">
+<img src="https://github.com/jetspiking/TeleDesk/blob/main/Images/TeleDeskIcon.png" width="128" height="128">
 
