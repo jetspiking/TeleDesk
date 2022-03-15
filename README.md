@@ -34,6 +34,8 @@ https://teletekst-data.nos.nl/json
 
 https://teletekst-data.nos.nl/webplus
 
+# Documentation
+The application uses Electron and its Routing capabilities to inject data into DOM-elements (HTML) and binds input events from users to an action for updating the Teletekst data and corresponding UI.
 <img src="https://github.com/jetspiking/TeleDesk/blob/main/Documentation/Routing.png" width="400">
 
 # Contributing
