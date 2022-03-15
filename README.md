@@ -34,6 +34,8 @@ https://teletekst-data.nos.nl/json
 
 https://teletekst-data.nos.nl/webplus
 
+<img src="https://github.com/jetspiking/TeleDesk/blob/main/Documentation/Routing.png" width="200">
+
 # Contributing
 Bugs can be reported by opening issues. Ideas to include specific features can also be discussed by opening an issue. 
 
