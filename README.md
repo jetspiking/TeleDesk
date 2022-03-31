@@ -30,11 +30,15 @@ Download and unzip the archived folder for your operating system. In the unpacke
 TeleDesk works on Windows, MacOS and Linux.
 
 # Information
-TeleDesk downloads the data from the following URL.
+TeleDesk downloads the data from the following URL:
 
 https://teletekst-data.nos.nl/json
 
+The official website can be found here:
+
 https://teletekst-data.nos.nl/webplus
+
+Browsing through these files is possible:
 
 https://teletekst-data.nos.nl/webplus.html/
 
