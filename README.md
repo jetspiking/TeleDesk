@@ -26,6 +26,9 @@ Download and unzip the archived folder for your operating system. In the unpacke
 
 [Releases](https://github.com/jetspiking/TeleDesk/releases)
 
+For MacOS it might be required to remove extended attributes from the application.
+    xattr -cr /path/to/application.app
+
 # Requirements
 TeleDesk works on Windows, MacOS and Linux.
 
