@@ -46,6 +46,10 @@ Browsing through these files is possible:
 
 https://teletekst-data.nos.nl/webplus.html/
 
+# Build
+- ```npm install```
+- ```npm run package-all```
+
 # Documentation
 The application uses Electron and its routing capabilities to inject data into DOM-elements (HTML) and binds input events from users to an action for updating the Teletekst data and corresponding UI. The front-end is running on the 'Main'-process, while the backend is running on the 'Rendering'-process (Chromium engine). Communication (routing) is done by utilizing the 'preload' process and its 'ContextBridge', which specifies an interface for data communication purposes.
 
